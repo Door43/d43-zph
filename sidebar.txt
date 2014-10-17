@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[zph:home|Door43 (zph)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-zph|d43-zph repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-zph/archive/master.zip|d43-zph.zip]]
+
+**Recent Changes**
+{{changes>ns = zph}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/zph|Ethnologue data]]
+
